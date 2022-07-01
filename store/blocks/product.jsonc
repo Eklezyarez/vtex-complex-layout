@@ -26,7 +26,13 @@
        "children": ["image#retro-mixer-banner"]
   },
 
-
+  "image#retro-mixer-banner": {
+    "props": {
+       "width": "100%",
+      "height": "200px",
+      "blockClass": "cover"
+    }
+  },
 
   "flex-layout.row#product-breadcrumb": {
     "props": {
